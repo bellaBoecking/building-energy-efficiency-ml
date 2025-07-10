@@ -82,11 +82,11 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 ## Skills Demonstrated
 
-✅ Data preprocessing  
-✅ Regularization techniques  
-✅ Pipeline construction  
-✅ Model tuning and validation  
-✅ Statistical interpretation of coefficients
+- Data preprocessing  
+- Regularization techniques  
+- Pipeline construction  
+- Model tuning and validation  
+- Statistical interpretation of coefficients
 
 ---
 
