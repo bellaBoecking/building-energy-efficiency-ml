@@ -73,11 +73,11 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 ---
 
 ## File Structure
-
+```
 .
 ├── energy_efficency_modeling_linear_regression_lasso.ipynb # Main analysis notebook
 └── README.md # Project overview and instructions
-
+```
 ---
 
 ## Skills Demonstrated
